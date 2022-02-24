@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders proper loading number input 1`] = `
+<div>
+  <label
+    className="block text-sm font-medium text-gray-700"
+    htmlFor="number"
+  >
+    Number
+  </label>
+  <div
+    className="mt-1 relative rounded-md shadow-sm"
+  >
+    <div
+      className="absolute inset-y-0 left-0 flex items-center"
+    >
+      <label
+        className="sr-only"
+        htmlFor="language"
+      >
+        Language
+      </label>
+      <select
+        className="focus:ring-indigo-500 focus:border-indigo-500 h-full py-0 pl-2 pr-2 border-transparent bg-transparent text-gray-500 sm:text-sm rounded-md"
+        id="lang"
+        name="lang"
+        onChange={[Function]}
+      >
+        <option
+          value="en"
+        >
+          EN
+        </option>
+        <option
+          value="id"
+        >
+          ID
+        </option>
+      </select>
+    </div>
+    <input
+      autoComplete="off"
+      className="appearance-none block w-full px-3 pl-16 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+      id="number"
+      name="number"
+      onChange={[Function]}
+      onKeyUp={[Function]}
+      required={true}
+      type="number"
+      value="30"
+    />
+  </div>
+</div>
+`;
+
+exports[`Renders proper loading spell container 1`] = `
+<div>
+  <label
+    className="block text-sm font-medium text-gray-700"
+    htmlFor="spelling"
+  >
+    Spelling
+  </label>
+  <div
+    className="mt-1"
+  >
+    <textarea
+      autoComplete="current-spelling"
+      className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+      id="spelling"
+      name="spelling"
+      readOnly={true}
+      required={true}
+      type="spelling"
+      value="Tiga Puluh"
+    />
+  </div>
+</div>
+`;

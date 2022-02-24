@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Re-speller
+
+React Speller, spell number input into text. This project is a mini project playground created by [Stefan](https://www.linkedin.com/in/stefanuscc/), inspired by some plugins and is used to train and test my React skills.
+
+![Reshowcase](https://github.com/stefanuscc/respeller/blob/main/preview.jpg?raw=true)
+
+Inspirations:
+- [Tailwind CSS](https://tailwindcss.com/)
+- 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
