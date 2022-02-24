@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/respeller/static/css/main.4b9e7eea.css",
+    "main.js": "/respeller/static/js/main.0cd5c741.js",
+    "static/js/787.0c9843f6.chunk.js": "/respeller/static/js/787.0c9843f6.chunk.js",
+    "index.html": "/respeller/index.html",
+    "main.4b9e7eea.css.map": "/respeller/static/css/main.4b9e7eea.css.map",
+    "main.0cd5c741.js.map": "/respeller/static/js/main.0cd5c741.js.map",
+    "787.0c9843f6.chunk.js.map": "/respeller/static/js/787.0c9843f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9e7eea.css",
+    "static/js/main.0cd5c741.js"
+  ]
+}
